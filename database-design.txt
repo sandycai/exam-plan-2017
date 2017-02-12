@@ -1,0 +1,4 @@
+week 1-5 sql lab sheets
+week 6 sql practice test 20%
+week 7 DB project 30%
+week 12 DB project due time.
